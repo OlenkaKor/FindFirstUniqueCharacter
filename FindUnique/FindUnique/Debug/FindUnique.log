@@ -1,0 +1,6 @@
+﻿  FindUnique.cpp
+c:\users\user\source\repos\findunique\findunique\findunique.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\findunique\findunique\findunique.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\findunique\findunique\findunique.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\findunique\findunique\findunique.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  FindUnique.vcxproj -> C:\Users\user\source\repos\FindUnique\Debug\FindUnique.exe
